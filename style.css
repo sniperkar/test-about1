@@ -13,7 +13,7 @@ body{
 }
 .nav{
 	<span style="color:#ff0000;">height:35px;</span>
-	background:url(../images/page_04.gif);
+	background:url(<img src="https://visitnewcastle.assets-be.digital/images/banners/11352_NCC_L1_VFR_WebHeader_1920x746_Dec17.jpg" data-src="https://visitnewcastle.assets-be.digital/images/banners/11352_NCC_L1_VFR_WebHeader_1920x746_Dec17.jpg" alt="">);
 	margin-top:-17px;
 }
 .nav ul{
